@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola 👋, me llamo José!</h1>
 <h3 align="center">Un desarrollador frontend apasionado de México.</h3>
 
-- 💬 Ask me about **html, css, javascript**
+- 💬 Ask me about **html, css, sass, javascript**
 
 - 📫 How to reach me **jose.macimendo@gmail.com**
 
