@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Fullstack Junior</h3>
 
 Soy desarrollador con experiencia en **frontend y backend**, especializado en la construcción de interfaces modernas y sistemas escalables.  
-Me interesa participar en proyectos donde pueda aportar valor con **React, Vue, Angular, PHP/Laravel y MySQL**, además de seguir creciendo en tecnologías de nube como **AWS**.  
+Me interesa participar en proyectos donde pueda aportar valor con **React, Vue, PHP/Laravel y MySQL**, además de seguir creciendo en tecnologías de nube como **AWS**.  
 
 ---
 
